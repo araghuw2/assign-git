@@ -1,4 +1,11 @@
 What is a gitignore file and what should it include for a Java project?
+File is used to specify files to be ignored while compilation.
+
 What does fast-forward in Git mean?
+In fast-forward merge, git simply moves the source branch pointer to the target branch pointer without creating an extra merge commit.
+
 Why should you have different branches?
+For better version control
+
 In a project how many remote Git repositories do you usually have?
+One remote repos can be had.
